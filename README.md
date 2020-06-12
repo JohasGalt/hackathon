@@ -9,3 +9,7 @@
  - run `react-native start` 
  - run `react-native run-android` 
  - double tap `r` key on emulator to open console debugger in chrome
+
+
+## Used images
+https://generated.photos/
